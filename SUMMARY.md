@@ -14,3 +14,4 @@
     * [1.3 案例学习](part1-ruan-jian-gong-cheng-dao-lun/ruan-jian-gong-cheng-dao-lun/di-yi-zhang/1.3-an-li-xue-xi/README.md)
       * [1.3.1 胰岛素泵控制系统](part1-ruan-jian-gong-cheng-dao-lun/ruan-jian-gong-cheng-dao-lun/di-yi-zhang/1.3-an-li-xue-xi/1.3.1-yi-dao-su-beng-kong-zhi-xi-tong.md)
       * [1.3.2 心理健康患者信息系统](part1-ruan-jian-gong-cheng-dao-lun/ruan-jian-gong-cheng-dao-lun/di-yi-zhang/1.3-an-li-xue-xi/1.3.2-xin-li-jian-kang-huan-zhe-xin-xi-xi-tong.md)
+      * [1.3.3 野外气象站](part1-ruan-jian-gong-cheng-dao-lun/ruan-jian-gong-cheng-dao-lun/di-yi-zhang/1.3-an-li-xue-xi/1.3.3-ye-wai-qi-xiang-zhan.md)
