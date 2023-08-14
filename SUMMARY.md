@@ -20,3 +20,4 @@
     * [2.1 软件过程模型](part1-ruan-jian-gong-cheng-dao-lun/ruan-jian-gong-cheng-dao-lun/di-er-zhang-ruan-jian-guo-cheng/2.1-ruan-jian-guo-cheng-mo-xing/README.md)
       * [2.1.1 瀑布模型](part1-ruan-jian-gong-cheng-dao-lun/ruan-jian-gong-cheng-dao-lun/di-er-zhang-ruan-jian-guo-cheng/2.1-ruan-jian-guo-cheng-mo-xing/2.1.1-pu-bu-mo-xing.md)
       * [2.1.2 增量开发](part1-ruan-jian-gong-cheng-dao-lun/ruan-jian-gong-cheng-dao-lun/di-er-zhang-ruan-jian-guo-cheng/2.1-ruan-jian-guo-cheng-mo-xing/2.1.2-zeng-liang-kai-fa.md)
+      * [2.1.3 集成与设置](part1-ruan-jian-gong-cheng-dao-lun/ruan-jian-gong-cheng-dao-lun/di-er-zhang-ruan-jian-guo-cheng/2.1-ruan-jian-guo-cheng-mo-xing/2.1.3-ji-cheng-yu-she-zhi.md)
